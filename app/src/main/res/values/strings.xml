@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EASYPC</string>
+    <string name="app_name">EASY PC</string>
+    <string name="form1" translatable="false">Part :</string>
+    <string name="form2" translatable="false">Brand :</string>
+    <string name="form3" translatable="false">Model :</string>
+    <string name="form4" translatable="false">Price :</string>
+    <string name="form5" translatable="false">Description :</string>
+    <string name="form6" translatable="false">Image :</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="add_part">Add Part</string>
+    <string name="upload">Upload</string>
+    <string name="view_parts">VIEW PARTS</string>
+    <string name="spare_parts">Spare Parts</string>
+    <string name="view_sparts">VIEW PARTS</string>
+    <string name="add_sparts">Add Spare Parts</string>
+</resources>
